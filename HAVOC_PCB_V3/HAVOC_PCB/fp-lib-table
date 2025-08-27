@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Teensy 4.1")(type "KiCad")(uri "${KISHC}/Teensy4.1")(options "")(descr ""))
+)
